@@ -5,3 +5,4 @@ Git tracks changes.
 add 2.
 Creating a new branch is quick and simple.
 Test branch log.
+Test no-ff.
